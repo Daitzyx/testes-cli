@@ -5,3 +5,4 @@ console.log("TESTE 10")
 
 console.log("REECEEEBAAA, testeando 7")
 console.log("REECEEEBAAA, testeando 10")
+console.log("REECEEEBAAA, testeando 10")
