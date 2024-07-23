@@ -6,6 +6,7 @@ function teste() {
   console.log("teste3")
   console.log("teste3")
   console.log("teste3")
+  console.log("teste4")
 }
 
 teste()
