@@ -1,5 +1,5 @@
-function callingLog(text){
+function log(text){
   console.log(text);
 }
 
-callingLog("Testando chamada de função");
+log("Testando chamada de função");
