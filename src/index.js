@@ -7,4 +7,9 @@ function fromLocal(text){
 }
 
 fromLocal("Essa é uma funcão criada local");
+function fromRemote(text){
+  console.log(text)
+}
+
+fromRemote("Funcao do repo remoto!")
 log("Test log");
