@@ -1,0 +1,8 @@
+{
+  "branchProtection": {
+    "enabled": false,
+    "protectedBranches": {
+      "branches": ["main", "develop"] 
+    }
+  }
+}
